@@ -1,0 +1,16 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "a heavy project jisse banana mushkil hone wala hai but main still isse banaunga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "chaiaurcodehelper",
+    "tohiteshsir"
+  ],
+  "author": "Chinmoy Panwar",
+  "license": "ISC"
+}
